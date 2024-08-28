@@ -1,6 +1,6 @@
 ThisBuild / version := "0.1.0-SNAPSHOT"
 
-ThisBuild / scalaVersion := "2.11.10"
+ThisBuild / scalaVersion := "2.12.10"
 
 // https://mvnrepository.com/artifact/commons-io/commons-io
 libraryDependencies += "commons-io" % "commons-io" % "2.6"
